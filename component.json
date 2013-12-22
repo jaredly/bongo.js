@@ -1,0 +1,14 @@
+{
+  "name": "bongo.js",
+  "repo": "jaredly/bongo.js",
+  "description": "IndexedDB Wrapper",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "dist/bongo.min.js",
+  "scripts": [
+    "dist/bongo.min.js"
+  ]
+}
